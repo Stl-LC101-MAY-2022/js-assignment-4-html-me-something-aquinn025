@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+main {
+    background-color: cadetblue;
+    padding: 20px;
+  }
+  
+  p {
+    font-weight: bold;
+    font-size: 65px;
+  }
+  
+  li {
+    font-weight: bold;
+    font-family: "Georgia";
+    
+  }
+  
+  p2 {
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+  }
+  footer {
+    font-weight: normal;
+    font-size: 16px;
+  }
+  
+  funParagraph {
+    color: yellowgreen;
+  }
+  
